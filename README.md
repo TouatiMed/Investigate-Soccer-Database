@@ -27,5 +27,3 @@ Check out Report.html file for the full report, analysis, results, and the concl
 ## Code
 Functioning code is found on Investigate_a_Dataset.ipynb
 
-## Database_Soccer
-CSV files for the datasets
