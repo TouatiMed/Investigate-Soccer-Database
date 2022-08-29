@@ -1,7 +1,10 @@
 # Investigate-Soccer-Database
 This project was part of the Professional Data Analyst degree by Udacity.
+
 In this project, [European Soccer Database](https://www.kaggle.com/datasets/hugomathien/soccer) was selected to be investigated
 This soccer database comes from Kaggle and is well suited for data analysis and machine learning. It contains data for soccer matches, players, and teams from several European countries from 2008 to 2016. This dataset is quite extensive.
+
+Python was used on a Jypyter Notebook to analyze and explore this Dataset.
 
 ## Requirements
 - Python and Jupyter Notebook (both found in Anaconda)
